@@ -1,3 +1,3 @@
 SELECT * FROM gotep;
 /*Qual episódio com menor audiência na série? */
-SELECT title, season, episode, votes from gotep order by votes ASC limit 10;
+SELECT título, temporada, episódio, votos from gotep order by votos ASC limit 10;
