@@ -3,4 +3,4 @@ SELECT
 FROM
     bruna.goteps
 ORDER BY Audiencia DESC
-LIMIT 1;
+LIMIT 3;
