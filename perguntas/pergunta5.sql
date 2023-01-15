@@ -1,4 +1,4 @@
-/* Qual os episódios mais longos? */
+/* Quais os episódios mais longos? */
 
 SELECT 
     Episodio, Titulo, Duração

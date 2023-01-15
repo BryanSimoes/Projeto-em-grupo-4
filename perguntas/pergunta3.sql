@@ -3,6 +3,6 @@
 SELECT 
     Temporada, Episodio, Titulo, Audiencia
 FROM
-    bruna.goteps
+    goteps
 ORDER BY Audiencia DESC
 LIMIT 3;
