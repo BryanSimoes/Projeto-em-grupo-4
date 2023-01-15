@@ -1,6 +1,17 @@
-# Projeto-em-grupo-4
-projeto em grupo do modulo 4 do resilia
+# Banco de dados - Série Game of Thrones
+ Projeto Módulo 4
 
+## 📜O projeto:
+
+O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banco de dados SQL em uma ferramenta como o MySQL. Assim, o projeto foi dividido em algumas etapas:
+
+🔹Criação e utilização da tabela utilizando o SQL WorkBench. Lembrando que os arquivos .CSV foram disponibilizados pela Resilia;
+
+🔹Brainstorming, onde perguntas foram elaboradas para a execução dos dados das tabelas;
+
+🔹Organização e utilização de ferramentas como MySQL, Github, PowerBi e Trello para organização e construção do projeto.
+
+📺 Dashboard com dados do Game of Thrones 📺
 ## PERGUNTAS DO PROJETO:
 
 ```sh
