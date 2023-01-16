@@ -43,7 +43,7 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
 ```sh
 🔹1. Qual episódio com menor audiência na série?
 ```
-![grafico1](https://user-images.githubusercontent.com/112878619/212578410-0daa486a-ef3e-475c-a556-02e1918dfcd7.jpg)
+![imagens](https://github.com/BryanSimoes/Projeto-em-grupo-4/blob/main/imagens/1%20(1).png?raw=true)
 
 ```sh
 🔹2. Qual região com menos casas?
@@ -51,13 +51,13 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
 ![grafico2](https://user-images.githubusercontent.com/112878619/212578464-77b65774-b747-45f5-8f68-735419ec4698.jpg)
 
 ```sh
-🔹3. Quais os 3 episódios com maior audiência?
+🔹3. Quais os 3 episódios com maior duração?
 ```
-![grafico3](https://user-images.githubusercontent.com/112878619/212578554-3c77f752-32af-4029-b9ba-e5b5e4f9347f.jpg)
+![imagens](https://github.com/BryanSimoes/Projeto-em-grupo-4/blob/main/imagens/2.png?raw=true)
 ```sh
-🔹4. Quais os episódios mais longos?
+🔹4. Quais os episódios mais mal avaliados?
 ```
-![grafico4](https://user-images.githubusercontent.com/112878619/212578621-a002e163-b862-42ba-b47d-9db92dae6f14.jpg)
+![imagens](https://github.com/BryanSimoes/Projeto-em-grupo-4/blob/main/imagens/1%20(2).png?raw=true)
 ```sh
 🔹3. Quais os episódios com maior audiência na série?
 ```
