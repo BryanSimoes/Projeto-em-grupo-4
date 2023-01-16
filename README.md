@@ -1,3 +1,4 @@
+
 # Banco de dados - Série Game of Thrones
  Projeto Módulo 4
 
@@ -11,7 +12,9 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
 
 🔹Organização e utilização de ferramentas como MySQL, Github, PowerBi e Trello para organização e construção do projeto.
 
-📺 Dashboard com dados do Game of Thrones 📺
+# 📺 Dashboard com dados do Game of Thrones 📺
+![got](https://user-images.githubusercontent.com/112557800/212575131-60f9a73b-fe0e-4546-967f-7fe5d9721b02.png)
+
 ## PERGUNTAS DO PROJETO:
 
 ```sh
