@@ -61,5 +61,7 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
 ```sh
 🔹3. Quais os episódios com maior audiência na série?
 ```
+![grafico6](https://user-images.githubusercontent.com/112878619/212582871-1a430541-9485-401d-847b-5ea5f830afcb.jpg)
+
 
 
