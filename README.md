@@ -50,6 +50,7 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
 ```sh
 🔹3. Quais os 3 episódios com maior audiência?
 ```
+![grafico3](https://user-images.githubusercontent.com/112878619/212578554-3c77f752-32af-4029-b9ba-e5b5e4f9347f.jpg)
 ```sh
 🔹4. Quais os episódios mais longos?
 ```
