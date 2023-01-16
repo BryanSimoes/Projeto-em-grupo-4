@@ -45,6 +45,8 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
 ```sh
 🔹2. Qual região com menos casas?
 ```
+![grafico2](https://user-images.githubusercontent.com/112878619/212578464-77b65774-b747-45f5-8f68-735419ec4698.jpg)
+
 ```sh
 🔹3. Quais os 3 episódios com maior audiência?
 ```
