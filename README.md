@@ -10,12 +10,15 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
 
 🔹Brainstorming, onde perguntas foram elaboradas para a execução dos dados das tabelas;
 
-🔹Organização e utilização de ferramentas como MySQL, Github, PowerBi e Trello para organização e construção do projeto.
+🔹Organização e utilização de ferramentas como MySQL, Github, PowerBi, GitHub Desktop e Workbench para organização e construção do projeto.
 
 # 📺 Dashboard com dados do Game of Thrones 📺
 ![got](https://user-images.githubusercontent.com/112557800/212575131-60f9a73b-fe0e-4546-967f-7fe5d9721b02.png)
+
+# 🔹O que é?
 ![resum](https://user-images.githubusercontent.com/112557800/212575332-888419bb-bf6f-479b-8dd8-88c65edf279e.png)
 
+# 🔹Nosso Time
 ![squad](https://user-images.githubusercontent.com/112557800/212576525-afad9989-d077-4254-9acf-c0ba6eb4ae93.jpg)
 
 ## GitHub:
