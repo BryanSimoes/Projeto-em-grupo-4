@@ -14,7 +14,7 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
 
 # 📺 Dashboard com dados do Game of Thrones 📺
 ![got](https://user-images.githubusercontent.com/112557800/212575131-60f9a73b-fe0e-4546-967f-7fe5d9721b02.png)
-
+![resum](https://user-images.githubusercontent.com/112557800/212575332-888419bb-bf6f-479b-8dd8-88c65edf279e.png)
 ## PERGUNTAS DO PROJETO:
 
 ```sh
