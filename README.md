@@ -19,6 +19,7 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
 ## GitHub:
 
  Bryan Simoes: https://github.com/BryanSimoes
+ 
  Bruna Lima: https://github.com/brwnalima
 
 ## PERGUNTAS DO PROJETO:
