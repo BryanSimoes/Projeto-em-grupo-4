@@ -34,7 +34,7 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
  Ester Ramos: https://github.com/EsterM99
  
  # 📜 Ferramentas Utilizadas 📜
- ## 🔹 MySQL 🔹 Workbench 🔹 GitHub 🔹 PowerBi 🔹GitHub Desktop🔹
+ ## 🔹 MySQL 🔹 Workbench 🔹 GitHub 🔹 PowerBi 🔹 GitHub Desktop 🔹
  
 ![ferramentas](https://user-images.githubusercontent.com/112878619/212577251-ef8a6436-37fd-41c7-8156-03ddc0d28039.png)
 
