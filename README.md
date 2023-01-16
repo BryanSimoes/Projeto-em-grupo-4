@@ -29,6 +29,8 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
  Bernardo Rezende: https://github.com/bedibe
  
  Ester Ramos: https://github.com/EsterM99
+ 
+ ## 📜 Ferramentas Utilizadas 📜
 
 ## PERGUNTAS DO PROJETO:
 
