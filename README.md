@@ -59,9 +59,6 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
 ```
 ![grafico4](https://user-images.githubusercontent.com/112878619/212578621-a002e163-b862-42ba-b47d-9db92dae6f14.jpg)
 
-```sh
-🔹5. Quais os episódios mais longos?
-```
-![grafico5](https://user-images.githubusercontent.com/112878619/212578671-4d18545b-b041-4178-a578-1aba4b5a8c80.jpg)
+
 
 
