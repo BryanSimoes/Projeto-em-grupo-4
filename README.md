@@ -58,7 +58,8 @@ O obejtivo deste projeto é manipular e vizualizar os dados inseridos em um banc
 🔹4. Quais os episódios mais longos?
 ```
 ![grafico4](https://user-images.githubusercontent.com/112878619/212578621-a002e163-b862-42ba-b47d-9db92dae6f14.jpg)
-
-
+```sh
+🔹3. Quais os episódios com maior audiência na série?
+```
 
 
